@@ -8,6 +8,7 @@ source*
 *.exe
 *.jar
 *.bat
+*.lnk
 !firegame.bat
 !.gitignore
 
@@ -18,6 +19,8 @@ firegame/materials
 firegame/models
 firegame/pak
 
+# ship not, it is external
+**/*.vpk
 **/*.fgd
 **/*.tmp
 **/*.cache

@@ -1,0 +1,10 @@
+//CHAPTER TITLES
+
+$fadein 0.01
+$holdtime 3.5
+$position -1 0.58
+
+CHAPTER1_TITLE
+{
+#firegame_Chapter1_Title
+}

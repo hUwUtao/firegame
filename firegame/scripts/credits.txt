@@ -1,0 +1,67 @@
+//Adrian: This file contains the credits info for both the Intro and outro.
+"credits.txt"
+{
+
+//========================================================
+//These are the names used in the intro (trainride)
+//========================================================
+"IntroCreditsNames"
+{
+	"V"	"WeaponIcons"
+	" "	"CreditsText"
+	" "	"CreditsText"
+	"sorry"   "CreditsText"
+}
+
+"CreditsParams"
+{
+	"logo" "FIREGAME'"
+	
+	"fadeintime"	"2.5"
+	"fadeouttime"	"1"
+	"fadeholdtime"	"1.0"
+	"nextfadetime"	"1.0"
+	"pausebetweenwaves" "1.0"
+	"logotime" "1.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+
+//Outro Parameters
+	"scrolltime" "20"
+	"separation"  "10"
+}
+
+//========================================================
+//These are the names used in the outro (breen_01)
+//========================================================
+"OutroCreditsNames"
+{
+	"FIREGAME'"	"CreditsOutroLogos"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"V"	"CreditsOutroLogos"
+	" "	"CreditsOutroText"
+	"Team"	"CreditsOutroText"
+	"Nguyễn Thành Đạt - Leader/Mapper"	"CreditsOutroText"
+	"Nguyễn Hải Đăng - Biên kịch" "CreditsOutroText"
+	"Dương Trung Kiên - Lời thoại" "CreditsOutroText"
+	"Đoàn Mạnh Kỳ - Hỗ trợ thiết kế"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Honourable Mention"	"CreditsOutroText"
+	"Valve(r) SourceTM Engine"	"CreditsOutroText"
+	"Mapbase Community"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Textures"	"CreditsOutroText"
+	"ambientCG - polyhaven"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Environment"	"CreditsOutroText"
+	"Blender Community - Adobe Substance"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Open Source at"	"CreditsOutroText"
+	"https://github.com/huwutao/firegame"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Cảm ơn cô và các bạn đã xem <3"	"CreditsOutroText"
+}

@@ -1,0 +1,1 @@
+hl2 -game firegame -novid -high +closecaption 1 +cc_lang vietnamese +map firemap
